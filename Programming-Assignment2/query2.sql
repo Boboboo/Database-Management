@@ -1,5 +1,5 @@
-﻿--Name: Bo Zhang
---CWID: 10411943
+﻿--Name:
+--CWID: 
 select cpm.*, tbefore.BEFORE_AVG, tafter.AFTER_AVG
 
 from    (select cust as CUSTOMER, prod as PRODUCT, month
