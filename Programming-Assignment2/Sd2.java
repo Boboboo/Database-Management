@@ -1,6 +1,6 @@
 
-/*Name: Bo Zhang
-*CWID: 10411943
+/*Name: 0
+*CWID: 0
 *
 *General instructions:
 *==>> Open the program in eclipse or other IDE for JAVA
