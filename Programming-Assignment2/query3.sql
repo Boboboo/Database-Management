@@ -1,5 +1,5 @@
-﻿--Name: Bo Zhang
---CWID: 10411943
+﻿--Name:
+--CWID:
 
 with S (prod,month,Savg,Smax) as
 	(select prod,month, avg(quant), max(quant) 
