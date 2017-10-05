@@ -1,5 +1,5 @@
-﻿--Name: Bo Zhang
---CWID: 10411943
+﻿--Name:
+--CWID: 
 
 select cp.*, tavg.THE_AVG, pavg.OTHER_PROD_AVG, cavg.OTHER_CUST_AVG
 
